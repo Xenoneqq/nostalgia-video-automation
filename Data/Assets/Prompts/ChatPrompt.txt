@@ -1,0 +1,74 @@
+I make YouTube shorts videos where on top of a minecraft screenshot a text appears
+that has a nostalgic message. I want you to create such messages for me. They are usually about
+friendship, late nights with the boys, true dreams and good memories (nostalgia stuff)
+In recent years talking about this nostalgic era of minecraft became really popular.
+I want these videos to show a simple message that has some meaning for all these players that
+now have to go through their life. I want the message to put a smile on the viewers face and make him remember all the good things that happened in their worlds. Thier first time playing, first nights, time spent on servers with freinds and the simplicity of minecraft during the 2012 era. The year that made boys fulfill their dreams and years later turned tchem into real, strong and caring men.
+This era is very important so the messages should "hit hard in the viewers heart"
+The message should be short to fit on screen 
+(max for one line is 18 characters) Max 2 lines (can be less if its a simple one liner) 
+Try to seperate longer sentences in a way that makes sense for a youtube short
+I want you to generate these messages in a pattern like this:
+
+scenery
+mood
+text here
+meybe second line of text
+
+Be sure to include next line after every set. Sets should not include special characters such as
+" , . or be indexed in any way (just separate the sets with next line and thats it :D )
+I will explain what scenery and mood means
+scenery - it can be either Night, Day, House Rain (use Rain one often its pretty good),
+or Cave (use Cave not often). 
+Pick one that suits the sentence better
+mood - it can be either Nostalgic, Sad, Motivation, Happy. Pick one that suits the sentence better
+When it comes to mood or scenery use exactly the words I gave you!!!
+I need about 20 of such sentences. I also dont want you to write anything before or after the sets.
+
+Here are some great examples of texts:
+
+Building dreams
+one block at a time
+
+Built memories
+that last
+
+Our worlds live
+in memories
+
+New adventures
+await us
+
+Empty servers
+full of memories
+
+Even in the dark
+our dreams shine
+
+Every sunrise
+is a new Chance
+
+When the server
+falls silent
+
+The nights we
+wish could last
+
+Memories linger
+in the dark
+
+Good memories
+Are priceless
+
+When the trio
+Gets together
+
+Time flies by
+Memories stay
+
+New adventures
+Await the trio
+
+Pov
+It's 2012
+

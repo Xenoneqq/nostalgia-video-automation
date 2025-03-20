@@ -1,0 +1,5 @@
+Create a new direcotry (name specifies the mood)
+Place your music there to use in the video.
+Remove this .txt file when filled with music.
+
+Write the directory name as mood inside OneLiner prompts.
